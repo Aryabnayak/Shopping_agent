@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae4add13-b80f-48a5-8e1a-dd1985aef2b7" name="Changes" comment="" />
+    <list default="true" id="ae4add13-b80f-48a5-8e1a-dd1985aef2b7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Shopping_assistant/agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/Shopping_assistant/agent.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shopping_assistant/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Shopping_assistant/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shopping_assistant/product_index.faiss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shopping_assistant/product_index_local.faiss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shopping_assistant/product_index_openai.faiss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shopping_assistant/sample_data/generate_products.py" beforeDir="false" afterPath="$PROJECT_DIR$/Shopping_assistant/sample_data/generate_products.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shopping_assistant/sample_data/products.csv" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Shopping_assistant" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1
@@ -19,9 +31,17 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "master",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "sqlite"
+    ]
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -39,11 +59,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1765598715541</updated>
-      <workItem from="1765598716584" duration="1000" />
+      <workItem from="1765598716584" duration="28274000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
