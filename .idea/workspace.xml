@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ae4add13-b80f-48a5-8e1a-dd1985aef2b7" name="Changes" comment="pushing all changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shopping_assistant/agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/Shopping_assistant/agent.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Shopping_assistant/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Shopping_assistant/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shopping_assistant/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/Shopping_assistant/utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1765598715541</updated>
-      <workItem from="1765598716584" duration="86829000" />
+      <workItem from="1765598716584" duration="88900000" />
     </task>
     <task id="LOCAL-00001" summary="pushing all changes">
       <option name="closed" value="true" />
@@ -90,7 +88,23 @@
       <option name="project" value="LOCAL" />
       <updated>1765890575898</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="pushing all changes">
+      <option name="closed" value="true" />
+      <created>1765893725399</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1765893725399</updated>
+    </task>
+    <task id="LOCAL-00006" summary="pushing all changes">
+      <option name="closed" value="true" />
+      <created>1765895209756</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1765895209756</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
