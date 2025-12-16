@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae4add13-b80f-48a5-8e1a-dd1985aef2b7" name="Changes" comment="">
+    <list default="true" id="ae4add13-b80f-48a5-8e1a-dd1985aef2b7" name="Changes" comment="pushing all changes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Shopping_assistant/agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/Shopping_assistant/agent.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Shopping_assistant/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Shopping_assistant/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shopping_assistant/product_index.faiss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shopping_assistant/product_index_local.faiss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shopping_assistant/product_index_openai.faiss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shopping_assistant/sample_data/generate_products.py" beforeDir="false" afterPath="$PROJECT_DIR$/Shopping_assistant/sample_data/generate_products.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shopping_assistant/sample_data/products.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shopping_assistant/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/Shopping_assistant/utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,12 +56,49 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1765598715541</updated>
-      <workItem from="1765598716584" duration="28274000" />
+      <workItem from="1765598716584" duration="86829000" />
     </task>
+    <task id="LOCAL-00001" summary="pushing all changes">
+      <option name="closed" value="true" />
+      <created>1765734643886</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1765734643886</updated>
+    </task>
+    <task id="LOCAL-00002" summary="pushing all changes">
+      <option name="closed" value="true" />
+      <created>1765821440014</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1765821440014</updated>
+    </task>
+    <task id="LOCAL-00003" summary="pushing all changes">
+      <option name="closed" value="true" />
+      <created>1765873733328</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1765873733328</updated>
+    </task>
+    <task id="LOCAL-00004" summary="pushing all changes">
+      <option name="closed" value="true" />
+      <created>1765890575898</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1765890575898</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="pushing all changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="pushing all changes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
